@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Marie Sklodowska-Curie Fellow \/ PhD Student
+role: PhD Student/n Marie Sklodowska-Curie Fellow 
 
 # Organizations/Affiliations
 organizations:
