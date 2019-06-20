@@ -25,20 +25,23 @@ date_format = "Jan 2006"
   date_start = "2018-11-19"
   date_end = "2019-05-13"
   description = """
-  -Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Worked on a profit turnaround program for one of India's largest steel manufacturers
+  * Wrote a Python based code to collect and summarize defect occurrence in the final product. This was later deployed at the plant for use in maintenance
+planning and execution.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "PhD Candidate"
+  company = "New York University Tandon School of Engineering"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Brooklyn"
+  date_start = "2017-08-15"
+  date_end = "2018-10-25"
+  description = """
+  * Conducted research in the areas of electro-active materials (results published in Appl. Phys. Lett.) and wearable assistive technology
+  * Took four graduate courses (GPA: 3.7/4.0)
+  *  Served as teaching assistant for two semesters for an undergraduate course
+  * Received Best PhD Qualifying Exam Performance Award from the department
+  """
 
 +++
