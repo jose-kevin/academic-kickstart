@@ -22,10 +22,10 @@ date_format = "Jan 2006"
   company = "Boston Consulting Group"
   company_url = ""
   location = "New Delhi"
-  date_start = "2017-01-01"
-  date_end = ""
+  date_start = "2018-11-19"
+  date_end = "2019-05-13"
   description = """
-  Responsibilities include:
+  -Responsibilities include:
   
   * Analysing
   * Modelling
