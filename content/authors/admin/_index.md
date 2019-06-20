@@ -11,7 +11,6 @@ superuser: true
 
 # Role/position
 role: PhD Student
-role: Marie Sklodowska-Curie Fellow 
 
 # Organizations/Affiliations
 organizations:
@@ -56,4 +55,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hi, I ama  first year PhD student at the University of Southampton. 
+Hi, I am a  first year PhD student at the University of Southampton. 
