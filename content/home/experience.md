@@ -18,6 +18,18 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "PhD Student / Marie Sklodowska-Curie Fellow"
+  company = "Boston Consulting Group"
+  company_url = ""
+  location = "New Delhi"
+  date_start = "2019-05-28"
+  date_end = ""
+  description = """
+  * Researching effect of structural periodicity in mechanical wave propagation characteristics
+  * Industrial applications of the aforementioned will be explored at Vestas-Aircoil, Denmark
+  """
+
+[[experience]]
   title = "Specialist Consultant"
   company = "Boston Consulting Group"
   company_url = ""
@@ -26,8 +38,7 @@ date_format = "Jan 2006"
   date_end = "2019-05-13"
   description = """
   * Worked on a profit turnaround program for one of India's largest steel manufacturers
-  * Wrote a Python based code to collect and summarize defect occurrence in the final product. This was later deployed at the plant for use in maintenance
-planning and execution.
+  * Wrote a Python based code to collect and summarize defect occurrence in the final product. This was later deployed at the plant for use in maintenance planning and execution.
   """
 
 [[experience]]
@@ -39,7 +50,7 @@ planning and execution.
   date_end = "2018-10-25"
   description = """
   * Conducted research in the areas of electro-active materials (results published in Appl. Phys. Lett.) and wearable assistive technology
-  * Took four graduate courses (GPA: 3.7/4.0)
+  * Took four graduate courses (GPA: 3.7 / 4.0)
   *  Served as teaching assistant for two semesters for an undergraduate course
   * Received Best PhD Qualifying Exam Performance Award from the department
   """
