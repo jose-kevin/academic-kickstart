@@ -11,7 +11,7 @@ superuser: true
 
 # Role/position
 role: PhD Student
-Marie Sklodowska-Curie Fellow 
+role: Marie Sklodowska-Curie Fellow 
 
 # Organizations/Affiliations
 organizations:
