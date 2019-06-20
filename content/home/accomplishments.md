@@ -20,27 +20,36 @@ date_format = "2006"
 
 [[item]]
   organization = "University of Southampton"
-  title = "Marie Sklodowska-Curie Fellow"
+  title = "Marie Sklodowska-Curie Fellowship"
   date_start = "2019-01-01"
-
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  organization = "New York University"
+  title = "Best Mechanical Engineering PhD Qualifying Exam Performance"
+  date_start = "2018-01-01"
+ 
+ [[item]]
+  organization = "New York University"
+  title = "School of Engineering Fellowship"
+  date_start = "2017-01-01"
+  
+[[item]]
+  organization = "Whirlpool Global Technology & Engineering Center Pune"
+  title = "Best Intern"
+  date_start = "2015-01-01"
 
+[[item]]
+  organization = "IIT Kanpur"
+  title = "Merit-cum-Means Scholarship"
+  date_start = "2014-01-01"
+
+[[item]]
+  organization = "IIIT-Joint Entrance Exam"
+  title = "All India Rank 792 (out of 0.47M candidates)"
+  date_start = "2012-01-01"
+
+[[item]]
+  organization = "Indian Institute of Science"
+  title = "KVPY Fellowship Award (Declined)"
+  date_start = "2012-01-01"
 +++

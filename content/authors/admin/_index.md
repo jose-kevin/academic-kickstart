@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: PhD Student <br> Marie Sklodowska-Curie Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.southampton.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mechanical vibrations and acoustics.
+bio: []
 
 education:
   courses:
@@ -40,23 +40,17 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=4DPIAlcAAAAJ&hl=en&oi=sra
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#  icon_pack: ai
-# link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+user_groups: []
+
 ---
 Hi!
 
-I am a first year PhD student in the Computational Engineering and Design Group at the University of Southampton. I am exploring the effects of structural periodicity on characteristics of mechanical waves.
+I am a first year PhD student in the [Computational Engineering and Design Group](https://www.southampton.ac.uk/engineering/research/groups/ced.page) at the University of Southampton. I am exploring the effects of structural periodicity on characteristics of mechanical waves.
 
 I graduated from the Department of Mechanical Engineering at IIT Kanpur in 2017 with a BTech-MTech (Dual Degree). My masters thesis was in the area of musical acousitics.
