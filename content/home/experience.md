@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "PhD Student / Marie Sklodowska-Curie Fellow"
-  company = "Boston Consulting Group"
+  company = "University of Southampton"
   company_url = ""
   location = "New Delhi"
   date_start = "2019-05-28"
