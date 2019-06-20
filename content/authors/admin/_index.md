@@ -55,4 +55,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hi, I am a  first year PhD student at the University of Southampton. 
+Hi!
+
+I am a first year PhD student in the Computational Engineering and Design Group at the University of Southampton. I am exploring the effects of structural periodicity on characteristics of mechanical waves.
+
+I graduated from Department of Mechanical Engineering, IIT Kanpur in 2017 with a BTech-MTech (Dual Degree). My masters thesis was in the area of musical acousitics. In my free time, I enjoy reading, playing board games and swimming.
