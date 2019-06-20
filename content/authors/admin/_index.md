@@ -19,7 +19,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: []
-
+interest: []
 education:
   courses:
   - course: MTech in Mechanical Engineering (Dual Degree)
