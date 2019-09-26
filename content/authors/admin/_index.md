@@ -40,6 +40,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=4DPIAlcAAAAJ&hl=en&oi=sra
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-1268-4476
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
