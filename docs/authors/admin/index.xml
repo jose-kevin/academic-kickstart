@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kevin Jose</title>
+    <link>https://josekevin.netlify.com/authors/admin/</link>
+    <description>Recent content on Kevin Jose</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="https://josekevin.netlify.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://josekevin.netlify.com/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://josekevin.netlify.com/authors/admin/</guid>
+      <description>&lt;p&gt;Hi!&lt;/p&gt;
+
+&lt;p&gt;I am a first year PhD student in the &lt;a href=&#34;https://www.southampton.ac.uk/engineering/research/groups/ced.page&#34; target=&#34;_blank&#34;&gt;Computational Engineering and Design Group&lt;/a&gt; at the University of Southampton. I am exploring the effects of structural periodicity on characteristics of mechanical waves.&lt;/p&gt;
+
+&lt;p&gt;I graduated from the Department of Mechanical Engineering at IIT Kanpur in 2017 with a BTech-MTech (Dual Degree). My masters thesis was in the area of musical acousitics.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
