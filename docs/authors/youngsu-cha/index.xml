@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Youngsu Cha on Kevin Jose</title>
+    <link>https://josekevin.netlify.com/authors/youngsu-cha/</link>
+    <description>Recent content in Youngsu Cha on Kevin Jose</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://josekevin.netlify.com/authors/youngsu-cha/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Electrostatic actuation in ionic polymer-metal composites</title>
+      <link>https://josekevin.netlify.com/publication/boldini-2019-electrostatic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://josekevin.netlify.com/publication/boldini-2019-electrostatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing the deformation range of ionic polymer metal composites through electrostatic actuation</title>
+      <link>https://josekevin.netlify.com/publication/doi-10-1063-1-5037889/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://josekevin.netlify.com/publication/doi-10-1063-1-5037889/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
