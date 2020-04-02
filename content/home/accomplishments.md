@@ -39,12 +39,12 @@ date_format = "2006"
   date_start = "2015-01-01"
 
 [[item]]
-  organization = "IIT Kanpur"
+  organization = "Indian Institute of Technology Kanpur"
   title = "Merit-cum-Means Scholarship"
   date_start = "2014-01-01"
 
 [[item]]
-  organization = "IIT-Joint Entrance Exam"
+  organization = "Indian Institute of Technology - Joint Entrance Exam"
   title = "All India Rank 792 (out of 0.47M candidates)"
   date_start = "2012-01-01"
 
