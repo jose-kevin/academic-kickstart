@@ -44,7 +44,7 @@ date_format = "2006"
   date_start = "2014-01-01"
 
 [[item]]
-  organization = "IIIT-Joint Entrance Exam"
+  organization = "IIT-Joint Entrance Exam"
   title = "All India Rank 792 (out of 0.47M candidates)"
   date_start = "2012-01-01"
 
