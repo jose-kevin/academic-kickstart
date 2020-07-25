@@ -19,3 +19,9 @@
    name = "CV"
    url = "files/cv.pdf"
    weight = 70
+
+[[main]]
+   name = "Personal"
+   url = 'personal/index.html'
+   weight = 80
+
