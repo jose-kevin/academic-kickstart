@@ -54,6 +54,6 @@ user_groups: []
 ---
 Hi!
 
-I am a first year PhD student in the [Computational Engineering and Design Group](https://www.southampton.ac.uk/engineering/research/groups/ced.page) at the University of Southampton. I am exploring the effects of structural periodicity on characteristics of mechanical waves.
+I am a second year PhD student in the [Computational Engineering and Design Group](https://www.southampton.ac.uk/engineering/research/groups/ced.page) at the University of Southampton. I am exploring the effects of structural periodicity on characteristics of mechanical waves.
 
 I graduated from the Department of Mechanical Engineering at IIT Kanpur in 2017 with a BTech-MTech (Dual Degree). My masters thesis was in the area of musical acousitics.
