@@ -1,5 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
+draft: true
 
 title: "Branched flow of flexural waves in random elastic plates"
 event: "Applied Mathematics Seminar | University of Southampton (Mathematical Sciences)"
@@ -7,6 +8,7 @@ event_url:
 location: "Virtual"
 summary:
 abstract: "Waves travelling in random media with correlated disorder show the formation of branches/channels, which correspond to local peaks in intensity. Flexural waves in thin elastic plates with randomly varying thickness are studied here. The expected location of the first caustic has an elegant scaling with respect to correlation length and “severity” of randomness. This location is also independent of wavelength. The scaling relations analytically obtained by us for elastic bending waves are consistent with our numerical simulations. The phenomenon has been observed previously in other physical contexts at many different length scales: from tsunami waves to electron propagation. Here we present the emergence of branched flow of dispersive waves in elastic plates - the biharmonic governing equation being different from all the systems that have been studied before."
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
