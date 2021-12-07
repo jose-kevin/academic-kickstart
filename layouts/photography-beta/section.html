@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode | default "en-us" }}" class="photography-html">
+
+  {{ partial "site_head.html" . }}
+
+  <body id="top" data-spy="scroll" data-target="{{ if or .IsHome (eq .Type "widget_page") }}#navbar-main{{else}}#TableOfContents{{end}}" data-offset="71" class="photography-container{{ if not (.Scratch.Get "light") }} dark{{end}}">
+    {{ partial "navbar.html" . }}
+
+    {{ range .Data.Pages.ByWeight.Reverse }}
+      <section class="photography-section">
+          <div class="photography-text">
+              <h4>{{.Params.title}}</h4>
+              {{.Content}}
+              <h6><i>{{ (time .Date).Format site.Params.date_format }}</i></h6>
+          </div>
+          <div class="photography-image-container">
+            <img class="photography-image" src="https://live.staticflickr.com/{{site.Params.flickrUserID}}/{{.Params.flickr}}">
+          </div>
+      </section>
+    {{ end }}
+    {{ partial "site_js.html" . }}
+  </body>
+</html>
