@@ -54,7 +54,7 @@ user_groups: []
 ---
 Hi!
 
-I am a second year PhD student in the [Computational Engineering and Design Group](https://www.southampton.ac.uk/engineering/research/groups/ced.page) at the University of Southampton, UK. My current work is centered around wave propagation in (perfectly and nearly) periodic structures with a special focus on potential use in industry. I will carry out part of the said research at [Vestas aircoil A/S](https://www.vestas-aircoil.com/) in Lem, Denmark.
+I am a third year PhD student in the [Computational Engineering and Design Group](https://www.southampton.ac.uk/engineering/research/groups/ced.page) at the University of Southampton, UK.
 
 I am part of the EU's H2020 [InDEStruct](https://indestruct.eu) project. You can read a profile article about me and my work [here](https://indestruct.eu/kevin-now-i-see-structures-everywhere/).
 
