@@ -58,4 +58,6 @@ I am a third year PhD student in the [Computational Engineering and Design Group
 
 I am part of the EU's H2020 [InDEStruct](https://indestruct.eu) project. You can read a profile article about me and my work [here](https://indestruct.eu/kevin-now-i-see-structures-everywhere/).
 
-I graduated from the Department of Mechanical Engineering at IIT Kanpur in 2017 with a BTech-MTech (Dual Degree). My masters thesis was in the area of musical acousitics.
+My latest work demonstrates the existence of [branched flows](https://physicstoday.scitation.org/doi/10.1063/PT.3.4902) in thin elastic plates. Read more about it [here](https://www.nature.com/articles/s42005-022-00917-z).
+
+I graduated from the Department of Mechanical Engineering at IIT Kanpur in 2017 with a BTech-MTech (Dual Degree). My master's thesis was in the area of musical acoustics.
