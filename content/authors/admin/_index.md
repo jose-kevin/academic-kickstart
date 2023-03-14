@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:K.Jose@soton.ac.uk".
+  link: '#contact'  # For a direct email link, use "mailto:kj419@cam.ac.uk".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=4DPIAlcAAAAJ&hl=en&oi=sra
@@ -53,6 +53,7 @@ user_groups: []
 
 ---
 Hi!
+
 I am a Research Assistant in the [Theoretical Condensed Matter](https://www.tcm.phy.cam.ac.uk/) group at the Cavendish Lab, University of Cambridge. I currently exploring the use of AI to design novel materials.
 
 I am also finishing up my PhD with the [Computational Engineering and Design Group](https://www.southampton.ac.uk/engineering/research/groups/ced.page) at the University of Southampton, UK.
