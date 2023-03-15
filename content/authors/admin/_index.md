@@ -61,6 +61,6 @@ I am also finishing up my PhD with the [Computational Engineering and Design Gro
 My latest work demonstrates the existence of [branched flows](https://physicstoday.scitation.org/doi/10.1063/PT.3.4902) in thin elastic plates. Read the paper [here](https://www.nature.com/articles/s42005-022-00917-z) and the blog post [here](https://go.nature.com/3GuJ5iZ).
 <center>![Anim](/img/RayAnimWeb.gif)</center>
 
-From 2019-2022, I was a Marie-Curie Fellow in the EU's H2020 [InDEStruct](https://indestruct.eu) project. You can read a profile article about me and my work [here](https://indestruct.eu/kevin-now-i-see-structures-everywhere/).
+From 2019-2022, I was a Marie Curie Fellow in the EU's H2020 [InDEStruct](https://indestruct.eu) project. You can read a profile article about me and my work [here](https://indestruct.eu/kevin-now-i-see-structures-everywhere/).
 
 I graduated from the Department of Mechanical Engineering at IIT Kanpur in 2017 with a BTech-MTech (Dual Degree). My master's thesis was in the area of musical acoustics.
