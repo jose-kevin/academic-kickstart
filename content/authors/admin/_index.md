@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student <br> Marie Sklodowska-Curie Fellow
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: University of Southampton
-  url: "https://www.southampton.ac.uk/"
+- name: University of Cambridge
+  url: "https://www.cam.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: []
@@ -58,9 +58,9 @@ I am a Research Assistant in the [Theoretical Condensed Matter](https://www.tcm.
 
 I am also finishing up my PhD with the [Computational Engineering and Design Group](https://www.southampton.ac.uk/engineering/research/groups/ced.page) at the University of Southampton, UK.
 
-I was a part of the EU's H2020 [InDEStruct](https://indestruct.eu) project. You can read a profile article about me and my work [here](https://indestruct.eu/kevin-now-i-see-structures-everywhere/).
-
 My latest work demonstrates the existence of [branched flows](https://physicstoday.scitation.org/doi/10.1063/PT.3.4902) in thin elastic plates. Read the paper [here](https://www.nature.com/articles/s42005-022-00917-z) and the blog post [here](https://go.nature.com/3GuJ5iZ).
 <center>![Anim](/img/RayAnimWeb.gif)</center>
+
+From 2019-2022, I was a Marie-Curie Fellow in the EU's H2020 [InDEStruct](https://indestruct.eu) project. You can read a profile article about me and my work [here](https://indestruct.eu/kevin-now-i-see-structures-everywhere/).
 
 I graduated from the Department of Mechanical Engineering at IIT Kanpur in 2017 with a BTech-MTech (Dual Degree). My master's thesis was in the area of musical acoustics.
