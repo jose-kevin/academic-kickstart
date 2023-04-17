@@ -18,19 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "PhD Student / Marie Sklodowska-Curie Fellow"
+  title = "Research Assistant"
+  company = "University of Cambridge"
+  company_url = ""
+  location = "Cambridge"
+  date_start = "2023-03-01"
+  date_end = ""
+  description = """
+  * Researching applied machine learning tools for material science
+  """
+
+[[experience]]
+  title = "Marie Sklodowska-Curie Fellow"
   company = "University of Southampton"
   company_url = ""
   location = "Southampton | Lem"
   date_start = "2019-05-28"
-  date_end = ""
+  date_end = "2022-12-31"
   description = """
-  * Researching effect of structural periodicity in mechanical wave propagation characteristics
+  * Researching effect of structural periodicity and inhomogeneity in mechanical wave propagation and vibration
   * Industrial applications of the aforementioned will be explored at Vestas-Aircoil, Denmark
   """
 
 [[experience]]
-  title = "Specialist Consultant"
+  title = "Associate"
   company = "Boston Consulting Group"
   company_url = ""
   location = "New Delhi"
@@ -42,7 +53,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "PhD Candidate"
+  title = "School of Engineering Fellow"
   company = "New York University Tandon School of Engineering"
   company_url = ""
   location = "Brooklyn"
