@@ -56,7 +56,7 @@ Hi!
 
 I am a Research Assistant in the [Theoretical Condensed Matter](https://www.tcm.phy.cam.ac.uk/) group at the Cavendish Lab, University of Cambridge. I am currently exploring applications of AI in material science.
 
-I am also finishing up my PhD with the [Computational Engineering and Design Group](https://www.southampton.ac.uk/engineering/research/groups/ced.page) at the University of Southampton, UK.
+I recently defended my PhD at the University of Southampton, UK (in the [Computational Engineering and Design Group](https://www.southampton.ac.uk/engineering/research/groups/ced.page)).
 
 My latest work demonstrates the existence of [branched flows](https://physicstoday.scitation.org/doi/10.1063/PT.3.4902) in thin elastic plates. Read the paper [here](https://www.nature.com/articles/s42005-022-00917-z) and the blog post [here](https://go.nature.com/3GuJ5iZ).
 <center>![Anim](/img/RayAnimWeb.gif)</center>
