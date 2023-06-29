@@ -54,7 +54,7 @@ user_groups: []
 ---
 Hi!
 
-I am a Research Assistant in the [Theoretical Condensed Matter](https://www.tcm.phy.cam.ac.uk/) group at the Cavendish Lab, University of Cambridge. I am currently exploring applications of AI in material science.
+I am a Research Assistant in the [Theory of Condensed Matter](https://www.tcm.phy.cam.ac.uk/) group at the Cavendish Lab, University of Cambridge. I am currently exploring applications of AI in material science.
 
 I recently defended my PhD at the University of Southampton, UK (in the [Computational Engineering and Design Group](https://www.southampton.ac.uk/engineering/research/groups/ced.page)).
 
