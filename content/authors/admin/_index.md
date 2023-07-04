@@ -22,10 +22,10 @@ bio: []
 interest: []
 education:
   courses:
-  - course: MTech in Mechanical Engineering (Dual Degree)
-    institution: Indian Institute of Technology Kanpur
-    year: 2017
-  - course: BTech in Mechanical Engineering (Dual Degree)
+  - course: PhD (Computational Engineering and Design Group)
+    institution: University of Southampton
+    year: 2023
+  - course: BT-MT Dual Degree (Dept of Mechanical Engineering)
     institution: Indian Institute of Technology Kanpur
     year: 2017
 
