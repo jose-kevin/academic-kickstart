@@ -63,4 +63,4 @@ My latest work demonstrates the existence of [branched flows](https://physicstod
 
 From 2019-2022, I was a Marie Curie Fellow in the EU's H2020 [InDEStruct](https://indestruct.eu) project. You can read a profile article about me and my work [here](https://indestruct.eu/kevin-now-i-see-structures-everywhere/).
 
-I graduated from the Department of Mechanical Engineering at IIT Kanpur in 2017 with a BTech-MTech (Dual Degree). My master's thesis was in the area of musical acoustics.
+I graduated from the Department of Mechanical Engineering at IIT Kanpur in 2017 with a BTech-MTech (Dual Degree). My master's thesis was in the area of [musical acoustics](https://pubs.aip.org/asa/jasa/article/143/5/3184/671858/Acoustics-of-Idakka-An-Indian-snare-drum-with).
