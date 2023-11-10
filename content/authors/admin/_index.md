@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -24,10 +24,10 @@ education:
   courses:
   - course: PhD (Computational Engineering and Design Group)
     institution: University of Southampton
-    year: 2023
+    year: 2019-2023
   - course: BT-MT Dual Degree (Dept of Mechanical Engineering)
     institution: Indian Institute of Technology Kanpur
-    year: 2017
+    year: 2012-2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -54,7 +54,7 @@ user_groups: []
 ---
 Hi!
 
-I am a Research Assistant in the [Theory of Condensed Matter](https://www.tcm.phy.cam.ac.uk/) group at the Cavendish Lab, University of Cambridge. I am currently exploring applications of AI in material science.
+I am a Research Associate in the [Theory of Condensed Matter](https://www.tcm.phy.cam.ac.uk/) group at the Cavendish Lab, University of Cambridge. I am currently exploring applications of AI in material science.
 
 I recently defended my PhD at the University of Southampton, UK (in the [Computational Engineering and Design Group](https://www.southampton.ac.uk/engineering/research/groups/ced.page)).
 
