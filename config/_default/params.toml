@@ -50,9 +50,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "kj419@cam.ac.uk"
-phone = "+44 7946 033867"
-address = "TCM Group, Cavendish Laboratory, 19 JJ Thompson Avenue, Cambridge CB3 0HE, UK"
+email = "kj419 AT cam DOT ac DOT uk"
+phone = ""
+address = "Department of Engineering, University of Cambridge, Cambridge, UK"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""

@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:kj419@cam.ac.uk".
+  link: '#contact'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=4DPIAlcAAAAJ&hl=en&oi=sra
@@ -54,7 +54,9 @@ user_groups: []
 ---
 Hi!
 
-I am a Research Associate in the [Theory of Condensed Matter](https://www.tcm.phy.cam.ac.uk/) group at the Cavendish Lab, University of Cambridge. I am currently exploring applications of AI in material science.
+I am a Research Associate in the [Department of Engineering](http://www.eng.cam.ac.uk/), University of Cambridge.
+
+<!-- [Theory of Condensed Matter](https://www.tcm.phy.cam.ac.uk/) group at the Cavendish Lab, University of Cambridge.
 
 I recently defended my PhD at the University of Southampton, UK (in the [Computational Engineering and Design Group](https://www.southampton.ac.uk/engineering/research/groups/ced.page)).
 
@@ -63,4 +65,4 @@ My latest work demonstrates the existence of [branched flows](https://physicstod
 
 From 2019-2022, I was a Marie Curie Fellow in the EU's H2020 [InDEStruct](https://indestruct.eu) project. You can read a profile article about me and my work [here](https://indestruct.eu/kevin-now-i-see-structures-everywhere/).
 
-I graduated from the Department of Mechanical Engineering at IIT Kanpur in 2017 with a BTech-MTech (Dual Degree). My master's thesis was in the area of [musical acoustics](https://pubs.aip.org/asa/jasa/article/143/5/3184/671858/Acoustics-of-Idakka-An-Indian-snare-drum-with).
+I graduated from the Department of Mechanical Engineering at IIT Kanpur in 2017 with a BTech-MTech (Dual Degree). My master's thesis was in the area of [musical acoustics](https://pubs.aip.org/asa/jasa/article/143/5/3184/671858/Acoustics-of-Idakka-An-Indian-snare-drum-with). -->

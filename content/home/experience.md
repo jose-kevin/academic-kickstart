@@ -25,7 +25,6 @@ date_format = "Jan 2006"
   date_start = "2023-03-01"
   date_end = ""
   description = """
-  * Researching applied machine learning tools for material science
   """
 
 [[experience]]
